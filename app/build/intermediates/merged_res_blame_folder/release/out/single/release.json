@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-hdpi_email.png.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-hdpi/email.png"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_fragment_account.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/fragment_account.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_activity_address.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/activity_address.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_wishlist_item_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/wishlist_item_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_cart_item_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/cart_item_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/anim_slide_from_right.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/anim/slide_from_right.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_fragment_my_orders.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/fragment_my_orders.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_ic_add.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_ic_coupon.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/ic_coupon.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_dot_selector.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/dot_selector.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_fragment_reset_password.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/fragment_reset_password.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_fragment_my_cart.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/fragment_my_cart.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_address_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/address_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_activity_main.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_my_order_item_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/my_order_item_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_ic_cart.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/ic_cart.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_product_images_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/product_images_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/menu_search_cart_icon.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/menu/search_cart_icon.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_recent_orders_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/recent_orders_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_fragment_sign_in.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/fragment_sign_in.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_rating_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/rating_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_category_item.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/category_item.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_select_dot.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/select_dot.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_horizontal_scroll_item_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/horizontal_scroll_item_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_ic_verified.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/ic_verified.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_no_internet.jpeg.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-xxxhdpi/no_internet.jpeg"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/anim_slide_from_left.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/anim/slide_from_left.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-hdpi_app_ico.png.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-hdpi/app_ico.png"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_grid_product_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/grid_product_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_fragment_order_detail.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/fragment_order_detail.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_ic_search.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_ic_home.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_fragment_wish.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/fragment_wish.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_slider_background.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/slider_background.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_activity_login.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_ic_trash.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/ic_trash.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_activity_search.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_profile_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/profile_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-xhdpi_slider.png.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-xhdpi/slider.png"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/menu_search_icon.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/menu/search_icon.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_fragment_home.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_fragment_product_description.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/fragment_product_description.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_ic_check.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/ic_check.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_ic_star.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/ic_star.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_activity_category.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/activity_category.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_activity_delivery.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/activity_delivery.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_payment.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/payment.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_activity_product_detail.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/build/generated/res/pngs/release/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_fragment_sign_up.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_ic_shopping_cart.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/ic_shopping_cart.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_activity_all_products.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/activity_all_products.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_shipping_detail_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/shipping_detail_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/menu_bottom_menu.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_slider_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/slider_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_splash_activity_background.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/splash_activity_background.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_order_detail_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/order_detail_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_addresses_item_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/addresses_item_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-mdpi_close.png.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-mdpi/close.png"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable-xhdpi_ic_favorite.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable-xhdpi/ic_favorite.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_activity_order_detail.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/activity_order_detail.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/anim_slideout_from_left.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/anim/slideout_from_left.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable-v24_product_item.jpeg.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable-v24/product_item.jpeg"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_fragment_cart.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/anim_slideout_from_right.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/anim/slideout_from_right.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_product_description_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/product_description_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_ic_person.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/ic_person.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable-v24_product_item_1.webp.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable-v24/product_item_1.webp"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_product_specification_item_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/product_specification_item_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_activity_registration.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/activity_registration.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_default_dot.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/default_dot.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-mdpi_logo.png.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-mdpi/logo.png"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_fragment_product_specification.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/fragment_product_specification.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_activity_my_addresses.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/activity_my_addresses.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_cart_total_amount_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/cart_total_amount_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_ic_more.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/ic_more.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/navigation_nav.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/navigation/nav.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_ic_favorite.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/ic_favorite.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop/app/build/intermediates/merged_res/release/layout_horizontal_scroll_layout.xml.flat",
+        "source": "/Users/blast/AndroidStudioProjects/Shop/app/src/main/res/layout/horizontal_scroll_layout.xml"
+    }
+]

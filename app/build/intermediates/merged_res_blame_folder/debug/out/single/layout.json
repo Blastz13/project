@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_wish.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/fragment_wish.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_product_detail.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/shipping_detail_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/shipping_detail_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_my_addresses.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/activity_my_addresses.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/my_order_item_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/my_order_item_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_order_detail.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/activity_order_detail.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_category.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/activity_category.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/horizontal_scroll_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/horizontal_scroll_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_reset_password.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/fragment_reset_password.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_cart.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/grid_product_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/grid_product_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_my_orders.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/fragment_my_orders.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_product_description.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/fragment_product_description.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/queue_room_item.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/queue_room_item.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_list_queue_room.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/activity_list_queue_room.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/cart_item_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/cart_item_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/category_item.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/category_item.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/slider_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/slider_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_address.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/activity_address.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/product_specification_item_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/product_specification_item_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_account.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/fragment_account.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/rating_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/rating_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/address_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/address_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_received_message.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/item_received_message.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_all_products.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/activity_all_products.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_create_room.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/dialog_create_room.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_received_photo.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/item_received_photo.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/addresses_item_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/addresses_item_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_sent_message.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/item_sent_message.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_product_specification.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/fragment_product_specification.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/product_description_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/product_description_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_delivery.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/activity_delivery.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/queue_ticket_item.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/queue_ticket_item.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/recent_orders_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/recent_orders_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_invite.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/activity_invite.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/cart_total_amount_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/cart_total_amount_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/profile_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/profile_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_search.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sign_up.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/wishlist_item_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/wishlist_item_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sign_in.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/fragment_sign_in.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/product_images_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/product_images_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/horizontal_scroll_item_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/horizontal_scroll_item_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_registration.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/activity_registration.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_sent_image.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/item_sent_image.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_order_detail.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/fragment_order_detail.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_chat.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/order_detail_layout.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/order_detail_layout.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_my_cart.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/fragment_my_cart.xml"
+    },
+    {
+        "merged": "/Users/blast/AndroidStudioProjects/Shop — копия/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/payment.xml",
+        "source": "/Users/blast/AndroidStudioProjects/Shop — копия/app/src/main/res/layout/payment.xml"
+    }
+]

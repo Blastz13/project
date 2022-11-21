@@ -1,0 +1,150 @@
+com/example/shop/databinding/ActivitySearchBinding.java
+ com.example.shop.databinding.ActivitySearchBinding
+com/example/shop/databinding/FragmentCartBinding.java
+ com.example.shop.databinding.FragmentCartBinding
+com/example/shop/databinding/FragmentResetPasswordBinding.java
+ com.example.shop.databinding.FragmentResetPasswordBinding
+com/example/shop/QueueRoomModel.java
+ com.example.shop.QueueRoomModel
+com/example/shop/databinding/FragmentAccountBinding.java
+ com.example.shop.databinding.FragmentAccountBinding
+com/example/shop/MessageAdapter.java
+ com.example.shop.MessageAdapter
+ com.example.shop.MessageAdapter$ReceivedImageHolder
+ com.example.shop.MessageAdapter$ReceivedMessageHolder
+ com.example.shop.MessageAdapter$SentImageHolder
+ com.example.shop.MessageAdapter$SentMessageHolder
+com/example/shop/BuildConfig.java
+ com.example.shop.BuildConfig
+com/example/shop/HomeFragment.java
+ com.example.shop.HomeFragment
+ com.example.shop.HomeFragment$1
+ com.example.shop.HomeFragment$2
+ com.example.shop.HomeFragment$3
+ com.example.shop.HomeFragment$4
+com/example/shop/QueueRoomAdapter.java
+ com.example.shop.QueueRoomAdapter
+ com.example.shop.QueueRoomAdapter$1
+ com.example.shop.QueueRoomAdapter$QueueRoomViewHolder
+com/example/shop/ChatActivity.java
+ com.example.shop.ChatActivity
+ com.example.shop.ChatActivity$1
+ com.example.shop.ChatActivity$10
+ com.example.shop.ChatActivity$11
+ com.example.shop.ChatActivity$12
+ com.example.shop.ChatActivity$13
+ com.example.shop.ChatActivity$14
+ com.example.shop.ChatActivity$15
+ com.example.shop.ChatActivity$16
+ com.example.shop.ChatActivity$17
+ com.example.shop.ChatActivity$18
+ com.example.shop.ChatActivity$19
+ com.example.shop.ChatActivity$2
+ com.example.shop.ChatActivity$20
+ com.example.shop.ChatActivity$21
+ com.example.shop.ChatActivity$22
+ com.example.shop.ChatActivity$23
+ com.example.shop.ChatActivity$24
+ com.example.shop.ChatActivity$25
+ com.example.shop.ChatActivity$26
+ com.example.shop.ChatActivity$27
+ com.example.shop.ChatActivity$3
+ com.example.shop.ChatActivity$4
+ com.example.shop.ChatActivity$5
+ com.example.shop.ChatActivity$6
+ com.example.shop.ChatActivity$7
+ com.example.shop.ChatActivity$8
+ com.example.shop.ChatActivity$9
+ com.example.shop.ChatActivity$SocketListener
+com/example/shop/QueueTicketRoomModel.java
+ com.example.shop.QueueTicketRoomModel
+com/example/shop/databinding/FragmentMyOrdersBinding.java
+ com.example.shop.databinding.FragmentMyOrdersBinding
+com/example/shop/databinding/ItemSentImageBinding.java
+ com.example.shop.databinding.ItemSentImageBinding
+com/example/shop/databinding/DialogCreateRoomBinding.java
+ com.example.shop.databinding.DialogCreateRoomBinding
+com/example/shop/MainActivity.java
+ com.example.shop.MainActivity
+com/example/shop/databinding/ItemReceivedMessageBinding.java
+ com.example.shop.databinding.ItemReceivedMessageBinding
+com/example/shop/ListQueueRoomActivity.java
+ com.example.shop.ListQueueRoomActivity
+ com.example.shop.ListQueueRoomActivity$1
+ com.example.shop.ListQueueRoomActivity$2
+ com.example.shop.ListQueueRoomActivity$3
+com/example/shop/databinding/ItemSentMessageBinding.java
+ com.example.shop.databinding.ItemSentMessageBinding
+com/example/shop/Auth/LoginActivity.java
+ com.example.shop.Auth.LoginActivity
+com/example/shop/databinding/ActivityMainBinding.java
+ com.example.shop.databinding.ActivityMainBinding
+com/example/shop/Auth/SignInFragment.java
+ com.example.shop.Auth.SignInFragment
+ com.example.shop.Auth.SignInFragment$1
+ com.example.shop.Auth.SignInFragment$2
+ com.example.shop.Auth.SignInFragment$3
+ com.example.shop.Auth.SignInFragment$4
+ com.example.shop.Auth.SignInFragment$5
+ com.example.shop.Auth.SignInFragment$6
+ com.example.shop.Auth.SignInFragment$7
+ com.example.shop.Auth.SignInFragment$8
+com/example/shop/databinding/FragmentSignInBinding.java
+ com.example.shop.databinding.FragmentSignInBinding
+com/example/shop/databinding/ActivityLoginBinding.java
+ com.example.shop.databinding.ActivityLoginBinding
+com/example/shop/Auth/SignUpFragment.java
+ com.example.shop.Auth.SignUpFragment
+ com.example.shop.Auth.SignUpFragment$1
+ com.example.shop.Auth.SignUpFragment$2
+ com.example.shop.Auth.SignUpFragment$3
+ com.example.shop.Auth.SignUpFragment$4
+ com.example.shop.Auth.SignUpFragment$5
+ com.example.shop.Auth.SignUpFragment$6
+ com.example.shop.Auth.SignUpFragment$7
+ com.example.shop.Auth.SignUpFragment$8
+ com.example.shop.Auth.SignUpFragment$9
+com/example/shop/databinding/ProfileLayoutBinding.java
+ com.example.shop.databinding.ProfileLayoutBinding
+com/example/shop/SplashActivity.java
+ com.example.shop.SplashActivity
+com/example/shop/databinding/QueueRoomItemBinding.java
+ com.example.shop.databinding.QueueRoomItemBinding
+com/example/shop/databinding/ActivityInviteBinding.java
+ com.example.shop.databinding.ActivityInviteBinding
+com/example/shop/databinding/ActivityRegistrationBinding.java
+ com.example.shop.databinding.ActivityRegistrationBinding
+com/example/shop/databinding/ActivityChatBinding.java
+ com.example.shop.databinding.ActivityChatBinding
+com/example/shop/databinding/ItemReceivedPhotoBinding.java
+ com.example.shop.databinding.ItemReceivedPhotoBinding
+com/example/shop/databinding/ActivityListQueueRoomBinding.java
+ com.example.shop.databinding.ActivityListQueueRoomBinding
+com/example/shop/AccountFragment.java
+ com.example.shop.AccountFragment
+ com.example.shop.AccountFragment$1
+ com.example.shop.AccountFragment$1$1
+ com.example.shop.AccountFragment$1$1$1
+ com.example.shop.AccountFragment$1$1$2
+ com.example.shop.AccountFragment$1$1$3
+ com.example.shop.AccountFragment$2
+ com.example.shop.AccountFragment$3
+ com.example.shop.AccountFragment$4
+ com.example.shop.AccountFragment$5
+com/example/shop/QueueTicketRoomAdapter.java
+ com.example.shop.QueueTicketRoomAdapter
+ com.example.shop.QueueTicketRoomAdapter$QueueTicketViewHolder
+com/example/shop/databinding/QueueTicketItemBinding.java
+ com.example.shop.databinding.QueueTicketItemBinding
+com/example/shop/Auth/ResetPasswordFragment.java
+ com.example.shop.Auth.ResetPasswordFragment
+ com.example.shop.Auth.ResetPasswordFragment$1
+ com.example.shop.Auth.ResetPasswordFragment$2
+ com.example.shop.Auth.ResetPasswordFragment$3
+ com.example.shop.Auth.ResetPasswordFragment$3$1
+com/example/shop/databinding/FragmentSignUpBinding.java
+ com.example.shop.databinding.FragmentSignUpBinding
+com/example/shop/Auth/RegistrationActivity.java
+ com.example.shop.Auth.RegistrationActivity
+com/example/shop/databinding/FragmentHomeBinding.java
+ com.example.shop.databinding.FragmentHomeBinding

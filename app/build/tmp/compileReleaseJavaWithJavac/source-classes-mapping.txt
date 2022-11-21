@@ -1,0 +1,291 @@
+com/example/shop/SliderModel.java
+ com.example.shop.SliderModel
+com/example/shop/databinding/ActivitySearchBinding.java
+ com.example.shop.databinding.ActivitySearchBinding
+com/example/shop/databinding/FragmentCartBinding.java
+ com.example.shop.databinding.FragmentCartBinding
+com/example/shop/databinding/FragmentResetPasswordBinding.java
+ com.example.shop.databinding.FragmentResetPasswordBinding
+com/example/shop/SliderAdapter.java
+ com.example.shop.SliderAdapter
+com/example/shop/HomeFragment.java
+ com.example.shop.HomeFragment
+ com.example.shop.HomeFragment$1
+ com.example.shop.HomeFragment$2
+ com.example.shop.HomeFragment$3
+ com.example.shop.HomeFragment$4
+ com.example.shop.HomeFragment$5
+ com.example.shop.HomeFragment$6
+ com.example.shop.HomeFragment$7
+ com.example.shop.HomeFragment$8
+ com.example.shop.HomeFragment$9
+com/example/shop/WishFragment.java
+ com.example.shop.WishFragment
+ com.example.shop.WishFragment$1
+ com.example.shop.WishFragment$1$1
+ com.example.shop.WishFragment$2
+ com.example.shop.WishFragment$2$1
+ com.example.shop.WishFragment$3
+com/example/shop/WishlistModel.java
+ com.example.shop.WishlistModel
+com/example/shop/ProductSpecificationFragment.java
+ com.example.shop.ProductSpecificationFragment
+com/example/shop/Cart.java
+ com.example.shop.Cart
+ com.example.shop.Cart$1
+ com.example.shop.Cart$2
+ com.example.shop.Cart$3
+ com.example.shop.Cart$3$1
+com/example/shop/databinding/FragmentWishBinding.java
+ com.example.shop.databinding.FragmentWishBinding
+com/example/shop/databinding/ActivityDeliveryBinding.java
+ com.example.shop.databinding.ActivityDeliveryBinding
+com/example/shop/databinding/ActivityOrderDetailBinding.java
+ com.example.shop.databinding.ActivityOrderDetailBinding
+com/example/shop/databinding/FragmentMyOrdersBinding.java
+ com.example.shop.databinding.FragmentMyOrdersBinding
+com/example/shop/databinding/ActivityAllProductsBinding.java
+ com.example.shop.databinding.ActivityAllProductsBinding
+com/example/shop/MainActivity.java
+ com.example.shop.MainActivity
+com/example/shop/databinding/ActivityAddressBinding.java
+ com.example.shop.databinding.ActivityAddressBinding
+com/example/shop/OrderDetailFragment.java
+ com.example.shop.OrderDetailFragment
+com/example/shop/HorizontalProductScrollModel.java
+ com.example.shop.HorizontalProductScrollModel
+com/example/shop/CategoryAdapter.java
+ com.example.shop.CategoryAdapter
+ com.example.shop.CategoryAdapter$ViewHolder
+ com.example.shop.CategoryAdapter$ViewHolder$1
+com/example/shop/databinding/FragmentSignInBinding.java
+ com.example.shop.databinding.FragmentSignInBinding
+com/example/shop/AddressesAdapter.java
+ com.example.shop.AddressesAdapter
+ com.example.shop.AddressesAdapter$Viewholder
+ com.example.shop.AddressesAdapter$Viewholder$1
+ com.example.shop.AddressesAdapter$Viewholder$2
+ com.example.shop.AddressesAdapter$Viewholder$3
+ com.example.shop.AddressesAdapter$Viewholder$3$1
+ com.example.shop.AddressesAdapter$Viewholder$4
+ com.example.shop.AddressesAdapter$Viewholder$5
+com/example/shop/HorizontalProductScrollAdapter.java
+ com.example.shop.HorizontalProductScrollAdapter
+ com.example.shop.HorizontalProductScrollAdapter$ViewHolder
+ com.example.shop.HorizontalProductScrollAdapter$ViewHolder$1
+com/example/shop/databinding/ActivityLoginBinding.java
+ com.example.shop.databinding.ActivityLoginBinding
+com/example/shop/databinding/FragmentOrderDetailBinding.java
+ com.example.shop.databinding.FragmentOrderDetailBinding
+com/example/shop/databinding/CategoryItemBinding.java
+ com.example.shop.databinding.CategoryItemBinding
+com/example/shop/databinding/ProfileLayoutBinding.java
+ com.example.shop.databinding.ProfileLayoutBinding
+com/example/shop/SplashActivity.java
+ com.example.shop.SplashActivity
+com/example/shop/ProductSpecificationModel.java
+ com.example.shop.ProductSpecificationModel
+com/example/shop/Order.java
+ com.example.shop.Order
+ com.example.shop.Order$1
+ com.example.shop.Order$1$1
+ com.example.shop.Order$1$1$1
+com/example/shop/databinding/ActivityCategoryBinding.java
+ com.example.shop.databinding.ActivityCategoryBinding
+com/example/shop/LoginActivity.java
+ com.example.shop.LoginActivity
+com/example/shop/MyOrdersFragment.java
+ com.example.shop.MyOrdersFragment
+com/example/shop/MyAddressesActivity.java
+ com.example.shop.MyAddressesActivity
+ com.example.shop.MyAddressesActivity$1
+ com.example.shop.MyAddressesActivity$2
+ com.example.shop.MyAddressesActivity$2$1
+com/example/shop/RegistrationActivity.java
+ com.example.shop.RegistrationActivity
+com/example/shop/databinding/HorizontalScrollLayoutBinding.java
+ com.example.shop.databinding.HorizontalScrollLayoutBinding
+com/example/shop/AddressActivity.java
+ com.example.shop.AddressActivity
+ com.example.shop.AddressActivity$1
+ com.example.shop.AddressActivity$1$1
+com/example/shop/GridProductLayoutAdapter.java
+ com.example.shop.GridProductLayoutAdapter
+ com.example.shop.GridProductLayoutAdapter$1
+com/example/shop/CartAdapter.java
+ com.example.shop.CartAdapter
+ com.example.shop.CartAdapter$CartItemViewholder
+ com.example.shop.CartAdapter$CartItemViewholder$1
+ com.example.shop.CartAdapter$CartTotalAmountViewholder
+com/example/shop/MyCartFragment.java
+ com.example.shop.MyCartFragment
+com/example/shop/CartFragment.java
+ com.example.shop.CartFragment
+ com.example.shop.CartFragment$1
+com/example/shop/databinding/RatingLayoutBinding.java
+ com.example.shop.databinding.RatingLayoutBinding
+com/example/shop/databinding/ProductDescriptionLayoutBinding.java
+ com.example.shop.databinding.ProductDescriptionLayoutBinding
+com/example/shop/databinding/AddressLayoutBinding.java
+ com.example.shop.databinding.AddressLayoutBinding
+com/example/shop/ProductDetailAdapter.java
+ com.example.shop.ProductDetailAdapter
+com/example/shop/ProductDetailActivity.java
+ com.example.shop.ProductDetailActivity
+ com.example.shop.ProductDetailActivity$1
+ com.example.shop.ProductDetailActivity$1$1
+ com.example.shop.ProductDetailActivity$1$1$1
+ com.example.shop.ProductDetailActivity$2
+ com.example.shop.ProductDetailActivity$2$1
+ com.example.shop.ProductDetailActivity$2$1$1
+ com.example.shop.ProductDetailActivity$3
+ com.example.shop.ProductDetailActivity$4
+ com.example.shop.ProductDetailActivity$4$1
+ com.example.shop.ProductDetailActivity$4$1$1
+ com.example.shop.ProductDetailActivity$5
+com/example/shop/databinding/GridProductLayoutBinding.java
+ com.example.shop.databinding.GridProductLayoutBinding
+com/example/shop/AllProductsActivity.java
+ com.example.shop.AllProductsActivity
+ com.example.shop.AllProductsActivity$1
+ com.example.shop.AllProductsActivity$2
+com/example/shop/AddressesModel.java
+ com.example.shop.AddressesModel
+com/example/shop/databinding/FragmentAccountBinding.java
+ com.example.shop.databinding.FragmentAccountBinding
+com/example/shop/databinding/FragmentProductSpecificationBinding.java
+ com.example.shop.databinding.FragmentProductSpecificationBinding
+com/example/shop/BuildConfig.java
+ com.example.shop.BuildConfig
+com/example/shop/databinding/ActivityProductDetailBinding.java
+ com.example.shop.databinding.ActivityProductDetailBinding
+com/example/shop/Address.java
+ com.example.shop.Address
+ com.example.shop.Address$1
+ com.example.shop.Address$2
+com/example/shop/databinding/HorizontalScrollItemLayoutBinding.java
+ com.example.shop.databinding.HorizontalScrollItemLayoutBinding
+com/example/shop/databinding/CartTotalAmountLayoutBinding.java
+ com.example.shop.databinding.CartTotalAmountLayoutBinding
+com/example/shop/databinding/ProductSpecificationItemLayoutBinding.java
+ com.example.shop.databinding.ProductSpecificationItemLayoutBinding
+com/example/shop/CartItemModel.java
+ com.example.shop.CartItemModel
+com/example/shop/databinding/ShippingDetailLayoutBinding.java
+ com.example.shop.databinding.ShippingDetailLayoutBinding
+com/example/shop/SignUpFragment.java
+ com.example.shop.SignUpFragment
+ com.example.shop.SignUpFragment$1
+ com.example.shop.SignUpFragment$2
+ com.example.shop.SignUpFragment$3
+ com.example.shop.SignUpFragment$4
+ com.example.shop.SignUpFragment$5
+ com.example.shop.SignUpFragment$6
+ com.example.shop.SignUpFragment$7
+ com.example.shop.SignUpFragment$8
+ com.example.shop.SignUpFragment$8$1
+ com.example.shop.SignUpFragment$8$1$1
+com/example/shop/databinding/MyOrderItemLayoutBinding.java
+ com.example.shop.databinding.MyOrderItemLayoutBinding
+com/example/shop/DeliveryActivity.java
+ com.example.shop.DeliveryActivity
+ com.example.shop.DeliveryActivity$1
+ com.example.shop.DeliveryActivity$1$1
+ com.example.shop.DeliveryActivity$1$1$1
+ com.example.shop.DeliveryActivity$1$2
+ com.example.shop.DeliveryActivity$1$2$1
+ com.example.shop.DeliveryActivity$2
+ com.example.shop.DeliveryActivity$3
+ com.example.shop.DeliveryActivity$4
+com/example/shop/databinding/AddressesItemLayoutBinding.java
+ com.example.shop.databinding.AddressesItemLayoutBinding
+com/example/shop/databinding/ActivityMainBinding.java
+ com.example.shop.databinding.ActivityMainBinding
+com/example/shop/ResetPasswordFragment.java
+ com.example.shop.ResetPasswordFragment
+ com.example.shop.ResetPasswordFragment$1
+ com.example.shop.ResetPasswordFragment$2
+ com.example.shop.ResetPasswordFragment$3
+ com.example.shop.ResetPasswordFragment$3$1
+com/example/shop/OrderDetailActivity.java
+ com.example.shop.OrderDetailActivity
+com/example/shop/databinding/WishlistItemLayoutBinding.java
+ com.example.shop.databinding.WishlistItemLayoutBinding
+com/example/shop/OrderAdapter.java
+ com.example.shop.OrderAdapter
+ com.example.shop.OrderAdapter$Viewholder
+ com.example.shop.OrderAdapter$Viewholder$1
+ com.example.shop.OrderAdapter$Viewholder$2
+ com.example.shop.OrderAdapter$Viewholder$2$1
+ com.example.shop.OrderAdapter$Viewholder$2$2
+com/example/shop/databinding/OrderDetailLayoutBinding.java
+ com.example.shop.databinding.OrderDetailLayoutBinding
+com/example/shop/databinding/RecentOrdersLayoutBinding.java
+ com.example.shop.databinding.RecentOrdersLayoutBinding
+com/example/shop/databinding/ActivityRegistrationBinding.java
+ com.example.shop.databinding.ActivityRegistrationBinding
+com/example/shop/SearchActivity.java
+ com.example.shop.SearchActivity
+ com.example.shop.SearchActivity$1
+ com.example.shop.SearchActivity$1$1
+ com.example.shop.SearchActivity$Adapter
+ com.example.shop.SearchActivity$Adapter$1
+com/example/shop/databinding/FragmentMyCartBinding.java
+ com.example.shop.databinding.FragmentMyCartBinding
+com/example/shop/CategoryModel.java
+ com.example.shop.CategoryModel
+com/example/shop/databinding/SliderLayoutBinding.java
+ com.example.shop.databinding.SliderLayoutBinding
+com/example/shop/databinding/PaymentBinding.java
+ com.example.shop.databinding.PaymentBinding
+com/example/shop/databinding/ActivityMyAddressesBinding.java
+ com.example.shop.databinding.ActivityMyAddressesBinding
+com/example/shop/ProductSpecificationAdapter.java
+ com.example.shop.ProductSpecificationAdapter
+ com.example.shop.ProductSpecificationAdapter$ViewHolder
+com/example/shop/OrderItemModel.java
+ com.example.shop.OrderItemModel
+com/example/shop/AccountFragment.java
+ com.example.shop.AccountFragment
+ com.example.shop.AccountFragment$1
+ com.example.shop.AccountFragment$2
+ com.example.shop.AccountFragment$3
+ com.example.shop.AccountFragment$4
+ com.example.shop.AccountFragment$5
+ com.example.shop.AccountFragment$6
+ com.example.shop.AccountFragment$6$1
+ com.example.shop.AccountFragment$6$1$1
+com/example/shop/WishlistAdapter.java
+ com.example.shop.WishlistAdapter
+ com.example.shop.WishlistAdapter$ViewHolder
+ com.example.shop.WishlistAdapter$ViewHolder$1
+ com.example.shop.WishlistAdapter$ViewHolder$2
+com/example/shop/Rating.java
+ com.example.shop.Rating
+ com.example.shop.Rating$1
+com/example/shop/SignInFragment.java
+ com.example.shop.SignInFragment
+ com.example.shop.SignInFragment$1
+ com.example.shop.SignInFragment$2
+ com.example.shop.SignInFragment$3
+ com.example.shop.SignInFragment$4
+ com.example.shop.SignInFragment$5
+ com.example.shop.SignInFragment$6
+ com.example.shop.SignInFragment$7
+com/example/shop/databinding/FragmentSignUpBinding.java
+ com.example.shop.databinding.FragmentSignUpBinding
+com/example/shop/CategoryActivity.java
+ com.example.shop.CategoryActivity
+ com.example.shop.CategoryActivity$1
+com/example/shop/databinding/FragmentHomeBinding.java
+ com.example.shop.databinding.FragmentHomeBinding
+com/example/shop/databinding/FragmentProductDescriptionBinding.java
+ com.example.shop.databinding.FragmentProductDescriptionBinding
+com/example/shop/ProductDescriptionFragment.java
+ com.example.shop.ProductDescriptionFragment
+com/example/shop/databinding/CartItemLayoutBinding.java
+ com.example.shop.databinding.CartItemLayoutBinding
+com/example/shop/ProductImagesAdapter.java
+ com.example.shop.ProductImagesAdapter
+com/example/shop/databinding/ProductImagesLayoutBinding.java
+ com.example.shop.databinding.ProductImagesLayoutBinding
